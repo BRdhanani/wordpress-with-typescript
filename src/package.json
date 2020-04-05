@@ -6,7 +6,7 @@
   "main": "src/index.tsx",
   "dependencies": {
     "antd": "4.1.0",
-    "axios": "0.18.0",
+    "axios": "0.19.2",
     "moment": "2.24.0",
     "react": "16.8.4",
     "react-dom": "16.8.4",
