@@ -1,1 +1,1 @@
-# wordpress-with-typescript
+# Wordpress with Typescript
